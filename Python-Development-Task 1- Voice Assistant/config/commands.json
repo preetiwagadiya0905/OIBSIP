@@ -1,0 +1,22 @@
+{
+  "open github": {
+    "action": "open_url",
+    "target": "https://github.com",
+    "description": "Opens the GitHub homepage in default web browser"
+  },
+  "open python docs": {
+    "action": "open_url",
+    "target": "https://docs.python.org/3/",
+    "description": "Opens the official Python documentation"
+  },
+  "open stack overflow": {
+    "action": "open_url",
+    "target": "https://stackoverflow.com",
+    "description": "Opens Stack Overflow"
+  },
+  "what is your name": {
+    "action": "speak",
+    "target": "I am Aura, your voice-powered AI assistant.",
+    "description": "Introduces the assistant"
+  }
+}
